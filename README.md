@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir
-- 🌱 I’m currently learning Java, Spring Boot, HTML/CSS, Python
+- 🌱 I’m currently learning Java, Spring Boot, Godot Engine
 - 📫 How to reach me: vladimir-galk1n@outlook.com
 
 <!---
